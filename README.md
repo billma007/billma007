@@ -4,11 +4,11 @@ a senior high school student in Suzhou Industrial Park,People's Republic of Chin
 
 ## interest
 
-I'm interested in C,C++,python.Also,I am studying Java,JS,Kotlin and Swift~~(but I don't own a Macbook)~~
+I'm interested in C,C++,python.Also,I am studying Java,JS,Kotlin and Swift
 
 I'm an Informatics Olympiad Competitor.~~But I'm just a rubbish.~~
 
-After class,I like playing violin,Rubik’s Cube，and playing Phigros~~(rks 13)~~
+After class,I like playing violin,Rubik’s Cube，and playing Phigros(~~rks 13~~)
 
 ## How to reach me?
 
