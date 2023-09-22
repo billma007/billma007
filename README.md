@@ -1,14 +1,14 @@
 ## BillMa007
 
-a senior high school student in Suzhou Industrial Park,People's Republic of China.
+a senior high school student in Suzhou.
 
 ## interest
 
-I'm interested in C,C++,python.Also,I am studying Java,JS,Kotlin and Swift
+I'm interested in C,C++,python.
 
 I'm an Informatics Olympiad Competitor.~~But I'm just a rubbish.~~
 
-After class,I like playing violin,Rubik’s Cube，and playing Phigros(~~rks 13~~)
+After class,I like playing violin,Rubik’s Cube，and playing Phigros(~~rks 15~~)
 
 ## How to reach me?
 
