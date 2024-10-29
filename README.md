@@ -1,6 +1,6 @@
 ## BillMa007
 
-Major in Intelligence Science and Technology / Jiangsu University
+Major in Intelligence Science and Technology  &&  Study in Jiangsu University
 
 I'm interested in C,C++,python.
 
@@ -18,11 +18,11 @@ I'm an Informatics Olympiad Competitor ~~before~~ .My current research direction
 ## Game?
 
 Phigros rks15.49
-Arcaea potential 11.6
-maimai DX rating:(whalap)13900 (internatinal ver.)10300
+Arcaea potential 12.03
+maimai DX rating:(whalap)14326 (internatinal ver.)10300
 
 
-- Arknights account: 733493898 / Dr.我永远喜欢澄闪#2057
+- Arknights account: 733493898
 - Genshin Impact: 233848210 (not playing)
 - Honkai Star Rail: 110675634
 - **The servers of the above three games are all in Chinese Mainland**
