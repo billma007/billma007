@@ -18,8 +18,8 @@ I'm an Informatics Olympiad Competitor ~~before~~ .My current research direction
 ## Game?
 
 Phigros rks15.49
-Arcaea potential 12.03
-maimai DX rating:(whalap)14326 (internatinal ver.)10300
+Arcaea potential 12.04
+maimai DX rating:(whalap)14604 (internatinal ver.)10300
 
 
 - Arknights account: 733493898
