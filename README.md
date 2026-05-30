@@ -6,7 +6,7 @@ I'm interested in C,C++,python.
 
 I'm an Informatics Olympiad Competitor ~~before~~ .My current research direction is deep learning ( Multimodal Learning )
 
-To exchange links with me, feel free to email me. You may also add me on social media, but please include your source/reference.
+To exchange links with me, **feel free to email me**. You may also add me on social media, but please include your source/reference.
 
 ## How to reach me?
 
