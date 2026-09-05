@@ -11,7 +11,7 @@ To exchange links with me, **feel free to email me**. You may also add me on soc
 ## How to reach me?
 
 - Twitter: @billma007cool
-- Facebook: billma007
+- github: https://github.com/billma007
 - Tencent QQ: 36937975
 - Email: maboning237103015@163.com
 - website: https://billma.top
