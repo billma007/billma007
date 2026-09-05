@@ -1,6 +1,6 @@
 ## BillMa007
 
-Major in Intelligence Science and Technology  &&  Study in Jiangsu University
+Major in IST  &&  Study in Jiangsu University
 
 I'm interested in C,C++,python.
 
